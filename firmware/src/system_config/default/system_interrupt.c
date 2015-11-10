@@ -64,6 +64,7 @@ SUBSTITUTE GOODS, TECHNOLOGY, SERVICES, OR ANY CLAIMS BY THIRD PARTIES
 #include <sys/attribs.h>
 #include "app_wifly.h"
 #include "system_definitions.h"
+#include "system_config.h"
 
 // *****************************************************************************
 // *****************************************************************************
